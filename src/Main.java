@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo 2");
+        System.out.println("Nueva funcionalidad"); //1er cambio
         Perro perro1=new Perro("canina","mamifero","hembra","pug","pequeño","baige",2);
         perro1.hacerRuido();
         Perro perro2=new Perro("canina","mamifero","hembra","pitbull","mediano","gris",5);
